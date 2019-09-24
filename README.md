@@ -32,13 +32,15 @@
   ---
   
 ### `Dev Tools`
-This was one of the most interesting thing we learned this week. We used dev tools to change the coding of Ebay.(temporarily change of course)
-I used this trick to change an important news in a turkish newspaper and my parents were shocked :))))
+This was one of the most interesting thing we learned this week. We used dev tools to see the coding of Ebay and temporarily change some parts of it. We changed the price of a laptop in Ebay, and it was very very exciting.
+I used this trick to change an important part of a turkish newspaper and my parents were shocked :))))
 * Command + option + j
 
 ---
 ### `Ugly Webby`
 It was a great project to be creative. We used css to make a webpage as ugly as possible! I had so much fun doing this project. I also learned a lot about putting images,changing backgrounds and text color. 
+
+---
 
 ### `Copy Kitten`
 I did not like this assignment at all. We were supposed to use css to make our table, header and button similar to the images we had. I struggled while doing this assignment but I learned a lot about CSS. I was not able to complete the assignment and my table did not look like the one on the picture at all but at least I tried!
