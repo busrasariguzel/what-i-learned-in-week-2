@@ -34,7 +34,8 @@ I used this trick to change an important news in a turkish newspaper and my pare
 * Command + option + j
 
 
-### `CSS`
+### `Ugly Webby`
+It was a great project to be creative. We used css to make a webpage as ugly as possible! I had so much fun doing this project. I also learned a lot about putting images,changing backgrounds and text color. 
 
 
 
