@@ -40,6 +40,11 @@ It was a great project to be creative. We used css to make a webpage as ugly as 
 ### `Copy Kitten`
 I did not like this assignment at all. We were supposed to use css to make our table, header and button similar to the images we had. I struggled while doing this assignment but I learned a lot about CSS. I was not able to complete the assignment and my table did not look like the one on the picture at all but at least I tried!
 
+### `Copy Calico`
+This assignment was much more fun than the Copy Kitten. We used css to make a webpage that is similar to another webpage. It was very time consuming, but I was able to practice css a lot. It was more helpful for me compare to Copy Kitten. I struggled with header the most. I think it looked similar but I need to work on the spacing and tables more in the future.
+
+
+
 
 
 
