@@ -11,8 +11,9 @@
     * `A.classname`= Selects all A elements that have the same class name.
 
 ### `Javascript`
-* High-level, interpreted scripting language
-* Variables= let or const
+* High-level interpreted scripting language
+* Variables= let or const.
+* Do not use var.
 * Data types :
     * Strings
     * Numbers
@@ -27,7 +28,11 @@
     * `**` = power of
     * `%` = remainder(if its 0, it's an even number.)
   
-  
+### `Dev Tools`
+This was one of the most interesting thing we learned this week. We used dev tools to change the coding of Ebay.(temporarily change of course)
+I used this trick to change an important news in a turkish newspaper and my parents were shocked :))))
+* Command + option + j
+
 
 ### `CSS`
 
