@@ -50,7 +50,7 @@ This assignment was much more fun than the Copy Kitten. We used css to make a we
 ---
 ### `Boxes CSS`
 
-
+This project helped me to learn more about the padding, margin, and css tools. We had 4 boxes, and we had to change their styles so that they look like the ones in the picture. I think this took us more than 2 hours but at the end we completed it!
 
 
 
