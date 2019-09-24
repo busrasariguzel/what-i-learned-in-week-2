@@ -1,0 +1,35 @@
+# `What I Learned in Week 2`
+
+### `CSS Diner`
+* A game that aims to teach us how to properly select specific elements in CSS.
+* Some important things I've learned with CSS Diner :
+    * `#id` = Selects  any element with that id.
+    * `A B` = Selects all B inside of A.
+    * `#id A` = Selects all A in id. 
+    * `.classname` = Selects all elements with that class name. 
+    * `*` = Selects all
+    * `A.classname`= Selects all A elements that have the same class name.
+
+### `Javascript`
+* High-level, interpreted scripting language
+* Variables= let or const
+* Data types :
+    * Strings
+    * Numbers
+    * Booleans
+    * NaN
+    * Null
+    * Undefined
+* We covered numbers and strings so far. 
+* Some useful Javascript math cheat sheet:
+    * `*` = multiply
+    * `/` = divide
+    * `**` = power of
+    * `%` = remainder(if its 0, it's an even number.)
+  
+  
+
+### `CSS`
+
+
+
